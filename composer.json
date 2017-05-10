@@ -1,14 +1,14 @@
 {
-    "name": "apanly/browser-detector",
-    "description": "根据UA判断浏览器类型和版本，操作系统，设备型号 ",
-    "keywords": ["browser", "os", "operating system", "language", "detection","浏览器","操作系统","设备型号"],
+    "name": "keyukeji/xfapp",
+    "description": "xfapp ",
+    "keywords": ["xfapp"],
     "authors": [
         {
-            "name": "apanly",
-            "email": "apanly@163.com"
+            "name": "kris",
+            "email": "120025737@qq.com"
         }
     ],
-    "homepage":"http://www.vincentguo.cn",
+    "homepage":"100.keyukeji.com",
     "license":"MIT",
     "require": {
         "php": "^5.3.3 || ^7.0"
