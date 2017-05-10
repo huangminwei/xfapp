@@ -8,7 +8,7 @@
             "email": "120025737@qq.com"
         }
     ],
-    "homepage":"100.keyukeji.com",
+    "homepage":"http://100.keyukeji.com",
     "license":"MIT",
     "require": {
         "php": "^5.3.3 || ^7.0"
