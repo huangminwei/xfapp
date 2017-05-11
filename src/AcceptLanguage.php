@@ -18,7 +18,7 @@ class AcceptLanguage
             $this->setAcceptLanguageString($acceptLanguageString);
         }
     }
- 
+
     /**
      * @param string $acceptLanguageString
      *
