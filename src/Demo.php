@@ -1,13 +1,12 @@
 <?php
 
-namespace clientauth;
+namespace xfapp;
 
 /**
  * Browser Detection.
  */
-class Qrcode
+class Demo
 {
-//    const UNKNOWN = 'unknown';
 
     public static function test()
     {
