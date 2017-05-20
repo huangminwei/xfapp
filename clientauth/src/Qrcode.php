@@ -1,6 +1,6 @@
 <?php
 
-namespace apanly\BrowserDetector;
+namespace clientauth;
 
 /**
  * Browser Detection.
